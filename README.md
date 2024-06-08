@@ -5,6 +5,10 @@
 Urban Update can help urban planners, architects, engineers, and city officials by offering predictions and suggestions for future urbanization and modernization projects. It provides a forward-looking perspective on how a city can evolve, taking into account emerging trends and technologies. By doing so, Urban Update aims to assist in creating more sustainable, efficient, and livable urban spaces, helping stakeholders make informed decisions that enhance the overall quality of urban life.
 
 #
+
+> Alex: *"Understanding how a city works together is what makes a city itself."*
+
+#
 ### Related Links
 
 [Urban Simulator](https://chatgpt.com/g/g-XQ2wkdcXL-urban-simulator)
