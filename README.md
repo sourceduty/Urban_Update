@@ -20,6 +20,8 @@ Urban Update can help urban planners, architects, engineers, and city officials 
 ### Related Links
 
 [Urban Simulator](https://chatgpt.com/g/g-XQ2wkdcXL-urban-simulator)
+<br>
+[Improvement Value](https://github.com/sourceduty/Improvement_Value)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
