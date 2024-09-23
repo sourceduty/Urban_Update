@@ -18,6 +18,10 @@ Urban Update can help urban planners, architects, engineers, and city officials 
 
 #
 
+![Weed Dumpster](https://github.com/user-attachments/assets/418321db-e10d-48d5-a53b-c401619e34f0)
+
+#
+
 > Alex: *"Understanding how a city works together is what makes a city itself."*
 
 #
