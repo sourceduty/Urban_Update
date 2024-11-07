@@ -10,19 +10,17 @@ Urban Update can help urban planners, architects, engineers, and city officials 
 
 #
 
-![BJ](https://github.com/user-attachments/assets/0da55b89-b0c2-48d6-ba48-b49f61f41fef)
-
+![J](https://github.com/user-attachments/assets/0da55b89-b0c2-48d6-ba48-b49f61f41fef)
 #
-
 ![Little England](https://github.com/sourceduty/Urban_Update/assets/123030236/fc35d401-b6fb-4da5-897d-03184b4e20ea)
-
 #
-
 ![Weed Dumpster](https://github.com/user-attachments/assets/418321db-e10d-48d5-a53b-c401619e34f0)
 
 #
 
 > Alex: *"Understanding how a city works together is what makes a city itself."*
+
+> "*I would own a property in the city where I might try to live, but I probably wouldn't live there very long. I might try a year in like Toronto if I could afford to. Maybe.*"
 
 #
 ### Related Links
