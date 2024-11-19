@@ -18,6 +18,13 @@ Rural and urban environments reflect contrasting ways of life, economies, and so
 Urbanism spreads into rural areas, fueled by the expansion of cities and the growth of transportation and technology networks. This process is reshaping rural spaces with urban characteristics such as modern housing, commerce, and services. The majority of rural residents now rely on some level of infrastructure to connect with urban economies and resources. As rural and urban landscapes increasingly merge, traditional distinctions between them are fading, leaving a world where infrastructure ties nearly everyone to an interconnected, urbanized system of living. This ongoing transformation reflects the global dominance of urbanization in shaping modern life.
 
 #
+### Breaking Traditions
+
+![Demolition](https://github.com/user-attachments/assets/f84db216-11a8-4aeb-a01c-824fe0f7c234)
+
+Without any traditions your are dancing to the beat of your own drum, embracing the unconventional paths and diverging from the norms. It's about challenging the status quo, daring to explore uncharted territories, and refusing to conform to societal expectations. Being untraditional is a celebration of individuality, creativity, and innovation. It's about finding beauty in the unexpected, discovering new perspectives, and breaking free from the constraints of conventionality. Embracing the untraditional is a journey of self-discovery, where one can fully express their unique identity and make their mark on the world in their own extraordinary way.
+
+#
 ### Urban Development
 
 ![Urbanization](https://github.com/user-attachments/assets/71bd17ce-8789-4811-aa6c-38a047b990c2)
