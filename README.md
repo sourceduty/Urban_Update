@@ -55,6 +55,10 @@ In contrast, the design of new cities can leverage cutting-edge simulation model
 [Improvement Value](https://github.com/sourceduty/Improvement_Value)
 <br>
 [Modernization](https://github.com/sourceduty/Modernization)
+<br>
+[Structural Design](https://github.com/sourceduty/Structural_Design)
+<br>
+[No Maintenance Build](https://github.com/sourceduty/No_Maintenance_Build)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
